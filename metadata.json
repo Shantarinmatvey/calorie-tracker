@@ -1,0 +1,6 @@
+{
+  "name": "Счетчик калорий",
+  "description": "Элегантное и минималистичное российское приложение для отслеживания калорий, дневной нормы и веса со встроенными интерактивными графиками и календарем.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
